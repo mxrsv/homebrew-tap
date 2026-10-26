@@ -1,6 +1,6 @@
 cask "tinysift" do
-  version "0.2.0"
-  sha256 "e1b11c5d2d849c776192fa66b2fb0112bb567da6aa63918d0f8d1ced5b83d4bc"
+  version "0.3.0"
+  sha256 "528762b95ada8e51499a1526ebfe32b58cbd64971bd45b77069d5a60d0930aee"
 
   url "https://github.com/mxrsv/tinysift/releases/download/app-v#{version}/TinySift-#{version}.dmg"
   name "TinySift"
